@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
+  ![](https://komarev.com/ghpvc/?username=bunnyflakes)
 </p>
