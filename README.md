@@ -6,5 +6,5 @@
   hmmmm
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bunnyflakes&color=gray" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bunnyflakes&color=gray" />
 </p>
