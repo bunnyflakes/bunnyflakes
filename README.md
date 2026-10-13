@@ -6,5 +6,5 @@
   hmmmm  
 </p>
 <p align="center">
-  (https://komarev.com/ghpvc/?username=bunnyflakes)
+  
 </p>
