@@ -6,5 +6,5 @@
   hmmmm  
 </p>
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=bunnyflakes)
+  (https://komarev.com/ghpvc/?username=bunnyflakes)
 </p>
