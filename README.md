@@ -6,4 +6,4 @@
   hmmmm
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=b3ada6)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=grey)
