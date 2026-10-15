@@ -6,5 +6,7 @@
   hmmmm
 </p>
 
-![](https://komarev.com/ghpvc/?username=bunnyflakes&color=grey)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bunnyflakes&color=grey" />
+</p>
 
